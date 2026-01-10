@@ -310,7 +310,7 @@ async function ensureFfmpegLoaded(totalJobs) {
 
   ffmpeg = createFFmpeg({
     log: false,
-    corePath: "https://unpkg.com/@ffmpeg/core@0.12.6/dist/ffmpeg-core.js"
+    corePath: "https://unpkg.com/@ffmpeg/core@0.11.6/dist/ffmpeg-core.js"
   });
 
   ffmpeg.setProgress(({ ratio }) => {
