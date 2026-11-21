@@ -20,7 +20,7 @@ All three HTML pages preserve their original titles and descriptions and include
 
 The official public URL has not been supplied. Canonical links, `og:url` and the WebSite `url` are omitted until LuxConvert's public URL is verified. Do not use the developer website as LuxConvert's canonical URL. No social preview image is configured because no suitable image asset is present.
 
-The footer link uses `rel="noopener noreferrer nofollow"` for the promotional developer credit. Structured data does not guarantee search rich results.
+The footer link uses `rel="nofollow"` for the promotional developer credit. Structured data does not guarantee search rich results.
 
 ## Development
 
