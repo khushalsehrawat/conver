@@ -20,12 +20,15 @@ All three HTML pages preserve their original titles and descriptions and include
 
 The official public URL has not been supplied. Canonical links, `og:url` and the WebSite `url` are omitted until LuxConvert's public URL is verified. Do not use the developer website as LuxConvert's canonical URL. No social preview image is configured because no suitable image asset is present.
 
-The footer link uses `rel="nofollow"` for the promotional developer credit. Structured data does not guarantee search rich results.
+The footer link uses a normal same-tab hyperlink for the developer credit. Structured data does not guarantee search rich results.
 
-## Development
+## Development & Maintenance
 
-Developed by [TheBenzzCreations](https://www.thebenzzcreations.com/).
+**Developed & Maintained by
+[Khushal Sehrawat](https://github.com/khushalsehrawat)**
+— Founder of
+[TheBenzzCreations](https://www.thebenzzcreations.com/).
 
-TheBenzzCreations builds custom websites, mobile applications, business software, e-commerce platforms and AI automation solutions.
+TheBenzzCreations is a digital development studio specializing in website development, custom software, mobile applications, e-commerce solutions and AI-powered business automation.
 
-For development enquiries, visit our official website.
+For development enquiries and collaborations, visit [TheBenzzCreations](https://www.thebenzzcreations.com/).
