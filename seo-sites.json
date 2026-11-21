@@ -1,0 +1,14 @@
+{
+  "sites": [
+    {
+      "name": "conver",
+      "root": ".",
+      "base_url": "https://khushalsehrawat.github.io/conver/",
+      "pages": {
+        "heicc.html": "https://khushalsehrawat.github.io/conver/heicc.html",
+        "index.html": "https://khushalsehrawat.github.io/conver/",
+        "mov.html": "https://khushalsehrawat.github.io/conver/mov.html"
+      }
+    }
+  ]
+}
